@@ -1,7 +1,6 @@
 
 <h1 align="center"> Hey there! I'm Sarah Kazi :D</h1>
 
-[![An image of @sarahkazi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarahkazi)](https://holopin.io/@sarahkazi)
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
